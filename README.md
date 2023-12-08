@@ -1,2 +1,4 @@
 # community
-Community description
+
+## Reddit
+https://www.reddit.com/r/solenopsys/
