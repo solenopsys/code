@@ -53,6 +53,24 @@
 - mf-video
 - mf-website
 
+## UiMatrix libraries
+- ui-3d
+- ui-charts
+- ui-controls
+- ui-forms
+- ui-icons
+- ui-layouts
+- ui-lists
+- ui-modals
+- ui-navigate
+- ui-publications
+- ui-qr
+- ui-templates
+- ui-themes
+- ui-utils
+
+
+## Microservices 
 - ms-ci
 - ms-ds-dgraph-http
 - ms-fluentbit
@@ -70,8 +88,8 @@
 - ms-pinning
 - ms-solechain
  
- 
-
+# Platform
+## Tools
 - tl-build-federation
 - tl-federation-runtime
 - tl-helm-booster
@@ -79,7 +97,7 @@
 - tl-xs
 
 
-# Platform Templates
+## Templates
 - tp-contracts
 - tp-converged
 - tp-embedded
@@ -89,21 +107,6 @@
 - tp-tools
 - tp-workspace
 
-## UiMatrix libraries
-- ui-3d
-- ui-charts
-- ui-controls
-- ui-forms
-- ui-icons
-- ui-layouts
-- ui-lists
-- ui-modals
-- ui-navigate
-- ui-publications
-- ui-qr
-- ui-templates
-- ui-themes
-- ui-utils
 
 
 ## Deployments 
