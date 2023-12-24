@@ -3,16 +3,15 @@
 - Reddit: https://www.reddit.com/r/solenopsys
 - Twitter: https://twitter.com/solenopsysorg
 
-bl-kubernetes-tools																									
-bl-zmq-connector				
+- bl-kubernetes-tools																									
+- bl-zmq-connector				
 
-
-bs-auth																									
-bs-converged																									
-bs-datasheets																									
-bs-robotization																									
-bs-uimatrix																									
-bs-website
+Converged Bootstrap modules
+- bs-auth - авторизация																									
+- bs-converged																																						
+- bs-robotization																									
+- bs-uimatrix																									
+- bs-website
 
 dp-ci																									
 dp-containers-registry																									
