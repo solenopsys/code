@@ -1,138 +1,135 @@
 # Community 
-- Medium: https://medium.com/@solenopsys
-- Reddit: https://www.reddit.com/r/solenopsys
-- Twitter: https://twitter.com/solenopsysorg
+- Medium: [solenopsys on Medium](https://medium.com/@solenopsys)
+- Reddit: [solenopsys on Reddit](https://www.reddit.com/r/solenopsys)
+- Twitter: [solenopsys on Twitter](https://twitter.com/solenopsysorg)
 
-- bl-kubernetes-tools
-- bl-zmq-connector
+### Repositories
+- [bl-kubernetes-tools](https://github.com/solenopsys/bl-kubernetes-tools)
+- [bl-zmq-connector](https://github.com/solenopsys/bl-zmq-connector)
 
 # Converged 
-## Bootstraps (cofigurations apps)
-- bs-auth - авторизация
-- bs-converged
-- bs-uimatrix
-- bs-website
+## Bootstraps (configurations apps)
+- [bs-auth](https://github.com/solenopsys/bs-auth) - авторизация
+- [bs-converged](https://github.com/solenopsys/bs-converged)
+- [bs-uimatrix](https://github.com/solenopsys/bs-uimatrix)
+- [bs-website](https://github.com/solenopsys/bs-website)
 
 ## Front Libs
-- fl-clusters
-- fl-content
-- fl-crypto
-- fl-dgraph
-- fl-globals
-- fl-helm
-- fl-hyperstreams
-- fl-installer
-- fl-storage
+- [fl-clusters](https://github.com/solenopsys/fl-clusters)
+- [fl-content](https://github.com/solenopsys/fl-content)
+- [fl-crypto](https://github.com/solenopsys/fl-crypto)
+- [fl-dgraph](https://github.com/solenopsys/fl-dgraph)
+- [fl-globals](https://github.com/solenopsys/fl-globals)
+- [fl-helm](https://github.com/solenopsys/fl-helm)
+- [fl-hyperstreams](https://github.com/solenopsys/fl-hyperstreams)
+- [fl-installer](https://github.com/solenopsys/fl-installer)
+- [fl-storage](https://github.com/solenopsys/fl-storage)
  
 ## Microfrontends 
-- mf-auth 
-- mf-backups 
-- mf-clickhouse
-- mf-content
-- mf-converged
-- mf-dgraph
-- mf-diagram
-- mf-editor-code
-- mf-editor-content
-- mf-editor-electronic
-- mf-files
-- mf-generator
-- mf-git
-- mf-inventory
-- mf-kubernetes
-- mf-layout
-- mf-microfonds
-- mf-people
-- mf-postgres
-- mf-quality
-- mf-registry
-- mf-rom
-- mf-stages
-- mf-time
-- mf-uimatrix
-- mf-video
-- mf-website
+- [mf-auth](https://github.com/solenopsys/mf-auth)
+- [mf-backups](https://github.com/solenopsys/mf-backups)
+- [mf-clickhouse](https://github.com/solenopsys/mf-clickhouse)
+- [mf-content](https://github.com/solenopsys/mf-content)
+- [mf-converged](https://github.com/solenopsys/mf-converged)
+- [mf-dgraph](https://github.com/solenopsys/mf-dgraph)
+- [mf-diagram](https://github.com/solenopsys/mf-diagram)
+- [mf-editor-code](https://github.com/solenopsys/mf-editor-code)
+- [mf-editor-content](https://github.com/solenopsys/mf-editor-content)
+- [mf-editor-electronic](https://github.com/solenopsys/mf-editor-electronic)
+- [mf-files](https://github.com/solenopsys/mf-files)
+- [mf-generator](https://github.com/solenopsys/mf-generator)
+- [mf-git](https://github.com/solenopsys/mf-git)
+- [mf-inventory](https://github.com/solenopsys/mf-inventory)
+- [mf-kubernetes](https://github.com/solenopsys/mf-kubernetes)
+- [mf-layout](https://github.com/solenopsys/mf-layout)
+- [mf-microfonds](https://github.com/solenopsys/mf-microfonds)
+- [mf-people](https://github.com/solenopsys/mf-people)
+- [mf-postgres](https://github.com/solenopsys/mf-postgres)
+- [mf-quality](https://github.com/solenopsys/mf-quality)
+- [mf-registry](https://github.com/solenopsys/mf-registry)
+- [mf-rom](https://github.com/solenopsys/mf-rom)
+- [mf-stages](https://github.com/solenopsys/mf-stages)
+- [mf-time](https://github.com/solenopsys/mf-time)
+- [mf-uimatrix](https://github.com/solenopsys/mf-uimatrix)
+- [mf-video](https://github.com/solenopsys/mf-video)
+- [mf-website](https://github.com/solenopsys/mf-website)
 
 ## UiMatrix libraries
-- ui-3d
-- ui-charts
-- ui-controls
-- ui-forms
-- ui-icons
-- ui-layouts
-- ui-lists
-- ui-modals
-- ui-navigate
-- ui-publications
-- ui-qr
-- ui-templates
-- ui-themes
-- ui-utils
-
+- [ui-3d](https://github.com/solenopsys/ui-3d)
+- [ui-charts](https://github.com/solenopsys/ui-charts)
+- [ui-controls](https://github.com/solenopsys/ui-controls)
+- [ui-forms](https://github.com/solenopsys/ui-forms)
+- [ui-icons](https://github.com/solenopsys/ui-icons)
+- [ui-layouts](https://github.com/solenopsys/ui-layouts)
+- [ui-lists](https://github.com/solenopsys/ui-lists)
+- [ui-modals](https://github.com/solenopsys/ui-modals)
+- [ui-navigate](https://github.com/solenopsys/ui-navigate)
+- [ui-publications](https://github.com/solenopsys/ui-publications)
+- [ui-qr](https://github.com/solenopsys/ui-qr)
+- [ui-templates](https://github.com/solenopsys/ui-templates)
+- [ui-themes](https://github.com/solenopsys/ui-themes)
+- [ui-utils](https://github.com/solenopsys/ui-utils)
 
 ## Microservices 
-- ms-ci
-- ms-ds-dgraph-http
-- ms-fluentbit
-- ms-git
-- ms-helm-lookup
-- ms-hs-clickhouse
-- ms-hs-http
-- ms-hs-kubernetes
-- ms-hs-postgres
-- ms-hs-router
-- ms-installer
-- ms-interactions
-- ms-ipfs-revproxy
-- ms-keys
-- ms-pinning
-- ms-solechain
- 
+- [ms-ci](https://github.com/solenopsys/ms-ci)
+- [ms-ds-dgraph-http](https://github.com/solenopsys/ms-ds-dgraph-http)
+- [ms-fluentbit](https://github.com/solenopsys/ms-fluentbit)
+- [ms-git](https://github.com/solenopsys/ms-git)
+- [ms-helm-lookup](https://github.com/solenopsys/ms-helm-lookup)
+- [ms-hs-clickhouse](https://github.com/solenopsys/ms-hs-clickhouse)
+- [ms-hs-http](https://github.com/solenopsys/ms-hs-http)
+- [ms-hs-kubernetes](https://github.com/solenopsys/ms-hs-kubernetes)
+- [ms-hs-postgres](https://github.com/solenopsys/ms-hs-postgres)
+- [ms-hs-router](https://github.com/solenopsys/ms-hs-router)
+- [ms-installer](https://github.com/solenopsys/ms-installer)
+- [ms-interactions](https://github.com/solenopsys/ms-interactions)
+- [ms-ipfs-revproxy](https://github.com/solenopsys/ms-ipfs-revproxy)
+- [ms-keys](https://github.com/solenopsys/ms-keys)
+- [ms-pinning](https://github.com/solenopsys/ms-pinning)
+- [ms-solechain](https://github.com/solenopsys/ms-solechain)
+
 # Platform
 ## Tools
-- tl-build-federation
-- tl-federation-runtime
-- tl-helm-booster
-- tl-vite-federation
-- tl-xs
-
+- [tl-build-federation](https://github.com/solenopsys/tl-build-federation)
+- [tl-federation-runtime](https://github.com/solenopsys/tl-federation-runtime)
+- [tl-helm-booster](https://github.com/solenopsys/tl-helm-booster)
+- [tl-vite-federation](https://github.com/solenopsys/tl-vite-federation)
+- [tl-xs](https://github.com/solenopsys/tl-xs)
 
 ## Templates
-- tp-contracts
-- tp-converged
-- tp-embedded
-- tp-engineering
-- tp-shockwaves
-- tp-templates
-- tp-tools
-- tp-workspace
-
-
+- [tp-contracts](https://github.com/solenopsys/tp-contracts)
+- [tp-converged](https://github.com/solenopsys/tp-converged)
+- [tp-embedded](https://github.com/solenopsys/tp-embedded)
+- [tp-engineering](https://github.com/solenopsys/tp-engineering)
+- [tp-shockwaves](https://github.com/solenopsys/tp-shockwaves)
+- [tp-templates](https://github.com/solenopsys/tp-templates)
+- [tp-tools](https://github.com/solenopsys/tp-tools)
+- [tp-workspace](https://github.com/solenopsys/tp-workspace)
 
 ## Deployments 
-- dp-ci
-- dp-containers-registry
-- dp-ds-clickhouse
-- dp-ds-dgraph
-- dp-ds-dgraph-http
-- dp-ds-postgres
-- dp-fluentbit
-- dp-git
-- dp-helm-lookup
-- dp-helm-repository
-- dp-hs-clickhouse
-- dp-hs-kubernetes
-- dp-hs-postgres
-- dp-hs-router
-- dp-installer
-- dp-interactions
-- dp-ipfs
-- dp-ipfs-cluster
-- dp-ipfs-registry
-- dp-ipfs-revproxy
-- dp-keys
-- dp-pinning
-- dp-protonmail-bridge
-- dp-smtp-server
-- dp-solechain
-- dp-solechain-spn
+- [dp-ci](https://github.com/solenopsys/dp-ci)
+- [dp-containers-registry](https://github.com/solenopsys/dp-containers-registry)
+- [dp-ds-clickhouse](https://github.com/solenopsys/dp-ds-clickhouse)
+- [dp-ds-dgraph](https://github.com/solenopsys/dp-ds-dgraph)
+- [dp-ds-dgraph-http](https://github.com/solenopsys/dp-ds-dgraph-http)
+- [dp-ds-postgres](https://github.com/solenopsys/dp-ds-postgres)
+- [dp-fluentbit](https://github.com/solenopsys/dp-fluentbit)
+- [dp-git](https://github.com/solenopsys/dp-git)
+- [dp-helm-lookup](https://github.com/solenopsys/dp-helm-lookup)
+- [dp-helm-repository](https://github.com/solenopsys/dp-helm-repository)
+- [dp-hs-clickhouse](https://github.com/solenopsys/dp-hs-clickhouse)
+- [dp-hs-kubernetes](https://github.com/solenopsys/dp-hs-kubernetes)
+- [dp-hs-postgres](https://github.com/solenopsys/dp-hs-postgres)
+- [dp-hs-router](https://github.com/solenopsys/dp-hs-router)
+- [dp-installer](https://github.com/solenopsys/dp-installer)
+- [dp-interactions](https://github.com/solenopsys/dp-interactions)
+- [dp-ipfs](https://github.com/solenopsys/dp-ipfs)
+- [dp-ipfs-cluster](https://github.com/solenopsys/dp-ipfs-cluster)
+- [dp-ipfs-registry](https://github.com/solenopsys/dp-ipfs-registry)
+- [dp-ipfs-revproxy](https://github.com/solenopsys/dp-ipfs-revproxy)
+- [dp-keys](https://github.com/solenopsys/dp-keys)
+- [dp-pinning](https://github.com/solenopsys/dp-pinning)
+- [dp-protonmail-bridge](https://github.com/solenopsys/dp-protonmail-bridge)
+- [dp-smtp-server](https://github.com/solenopsys/dp-smtp-server)
+- [dp-solechain](https://github.com/solenopsys/dp-solechain)
+- [dp-solechain-spn](https://github.com/solenopsys/dp-solechain-spn)
